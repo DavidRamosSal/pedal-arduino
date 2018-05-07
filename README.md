@@ -1,2 +1,2 @@
 # pedal-arduino
-Pedal de efectos usando Arduino UNO
+Proyecto de electrónica en el que se busca construir un pedal de efectos usando Arduino UNO, basados en el pedalSHIELD UNO.
